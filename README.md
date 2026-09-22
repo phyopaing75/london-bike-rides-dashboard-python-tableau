@@ -1,6 +1,6 @@
 # London Bike Sharing Analytics: Python ETL & Interactive Tableau Dashboard
 
-[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboard-E97627?style=flat&logo=tableau)](https://public.tableau.com/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-View_Dashboard-E97627?style=flat&logo=tableau)](https://public.tableau.com/app/profile/phyo.paing8212/viz/LondonBikeRideAnalysis_17881494251050/Dashboard1)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat&logo=pandas)](https://pandas.pydata.org/)
 
