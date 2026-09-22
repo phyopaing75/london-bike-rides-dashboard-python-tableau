@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-* Live Dashboard: [View on Tableau Public](https://public.tableau.com/)
+* Live Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/phyo.paing8212/viz/LondonBikeRideAnalysis_17881494251050/Dashboard1)
 * Tools and Technologies: Python (`pandas`, `openpyxl`), Microsoft Excel, Tableau Desktop / Public
 * Dataset Scope: 17,414 hourly records tracking London bike-share journeys alongside localized weather metrics.
 * Business Objective: Raw municipal bike-share feeds present cryptic numerical codes, unformatted metrics, and high short-term variance. This project implements an automated Python ETL pipeline to standardize and clean the data, feeding an interactive Tableau dashboard designed to distinguish underlying demand trajectories from day-to-day weather fluctuations and highlight operating sweet spots for fleet management.
