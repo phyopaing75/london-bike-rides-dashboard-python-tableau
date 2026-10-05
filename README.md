@@ -11,7 +11,6 @@
 * Live Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/phyo.paing8212/viz/LondonBikeRideAnalysis_17881494251050/Dashboard1)
 * Tools and Technologies: Python (pandas), Microsoft Excel, Tableau Desktop / Public
 * Dataset Scope: 17,414 hourly records of London bike-share rides alongside weather measurements, from 4 January 2015 to 3 January 2017 (19,905,972 rides in total).
-* Source: *[add the original dataset link here]*
 
 ---
 
